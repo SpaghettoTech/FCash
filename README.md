@@ -1,13 +1,17 @@
 # FCash 💸 — Personal Expense Management Made Simple
 
-<img width="270" height="600" alt="Screenshot_2026-04-17-11-16-08-450_com fcash app jpg" src="https://github.com/user-attachments/assets/0fa3e719-2d16-4120-b791-a5e0d2d5a4ac" >
-<img width="270" height="600" alt="Screenshot_2026-04-17-11-24-52-450_com fcash app jpg" src="https://github.com/user-attachments/assets/2a0a7aa8-ff73-4e7c-9e88-09b549a9995f" >
-<img width="270" height="600" alt="Screenshot_2026-04-17-11-25-18-681_com fcash app jpg" src="https://github.com/user-attachments/assets/25f7a332-e2c5-4928-b9b2-ff67321be1e7" >
-<img width="270" height="600" alt="Screenshot_2026-04-17-11-25-30-439_com fcash app jpg" src="https://github.com/user-attachments/assets/7bd56377-2d77-448a-a315-f2cf780c0b13" >
-<img width="270" height="600" alt="Screenshot_2026-04-17-11-25-11-200_com fcash app jpg" src="https://github.com/user-attachments/assets/842b974d-fd3b-4433-8c7d-28656281fbe6" >
-<img width="270" height="600" alt="Screenshot_2026-04-17-11-25-04-573_com fcash app jpg" src="https://github.com/user-attachments/assets/5c29feb3-aa32-4f12-a201-361979a0da70" >
-<img width="270" height="600" alt="Screenshot_2026-04-17-11-24-57-461_com fcash app jpg" src="https://github.com/user-attachments/assets/7a0bf061-5a5b-4dcf-994b-d8b291e6bbfc" >
-
+<table align="center">
+  <tr>
+    <td><img width="270" height="600" alt="Screenshot_2026-04-17-11-16-08-450_com fcash app jpg" src="https://github.com/user-attachments/assets/0fa3e719-2d16-4120-b791-a5e0d2d5a4ac" ></td>
+    <td><img width="270" height="600" alt="Screenshot_2026-04-17-11-24-57-461_com fcash app jpg" src="https://github.com/user-attachments/assets/7a0bf061-5a5b-4dcf-994b-d8b291e6bbfc" ></td>
+    <td><img width="270" height="600" alt="Screenshot_2026-04-17-11-25-18-681_com fcash app jpg" src="https://github.com/user-attachments/assets/25f7a332-e2c5-4928-b9b2-ff67321be1e7" ></td>
+  </tr>
+  <tr>
+    <td><img width="270" height="600" alt="Screenshot_2026-04-17-11-25-30-439_com fcash app jpg" src="https://github.com/user-attachments/assets/7bd56377-2d77-448a-a315-f2cf780c0b13" ></td>
+    <td><img width="270" height="600" alt="Screenshot_2026-04-17-11-25-11-200_com fcash app jpg" src="https://github.com/user-attachments/assets/842b974d-fd3b-4433-8c7d-28656281fbe6" ></td>
+    <td><img width="270" height="600" alt="Screenshot_2026-04-17-11-25-04-573_com fcash app jpg" src="https://github.com/user-attachments/assets/5c29feb3-aa32-4f12-a201-361979a0da70" ></td>
+  </tr>
+ </table>
 
 **FCash** is a modern personal finance and expense tracking application designed to help you monitor **income, expenses, savings, and spending habits** in one intuitive dashboard.
 
